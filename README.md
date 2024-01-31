@@ -1,4 +1,5 @@
-Description: The square shape will be displayed whenever there is a hand shown in the camera above a pre-marked virtual line on the screen where the video is displayed. This marked line can be seen at the bottom of the screen. Noticeably, if the hand is brought below that line, the square shape will be removed. 
+# Description: 
+The square shape will be displayed whenever there is a hand shown in the camera above a pre-marked virtual line on the screen where the video is displayed. This marked line can be seen at the bottom of the screen. Noticeably, if the hand is brought below that line, the square shape will be removed. 
 
 Note: This project is made using cv2 module of python along with libraries such as mediapipe, numpy etc.
 # At Begining. ( Output )
